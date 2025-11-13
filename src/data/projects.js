@@ -1,0 +1,51 @@
+export const projects = [
+  {
+    id: 1,
+    name: 'Proyecto Ejemplo 1',
+    description: 'Descripción breve del proyecto que demuestra habilidades y experiencia.',
+    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
+    demoUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 2,
+    name: 'Proyecto Ejemplo 2',
+    description: 'Aplicación web moderna con funcionalidades avanzadas y diseño responsivo.',
+    image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop',
+    demoUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 3,
+    name: 'Proyecto Ejemplo 3',
+    description: 'Solución completa para gestión de datos con interfaz intuitiva.',
+    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop',
+    demoUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 4,
+    name: 'Proyecto Ejemplo 4',
+    description: 'Plataforma web escalable con arquitectura robusta y optimizada.',
+    image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&h=600&fit=crop',
+    demoUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 5,
+    name: 'Proyecto Ejemplo 5',
+    description: 'Aplicación móvil responsive con experiencia de usuario excepcional.',
+    image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop',
+    demoUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 6,
+    name: 'Proyecto Ejemplo 6',
+    description: 'Sistema completo de gestión con integraciones y API personalizada.',
+    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
+    demoUrl: '#',
+    githubUrl: '#',
+  },
+]
+

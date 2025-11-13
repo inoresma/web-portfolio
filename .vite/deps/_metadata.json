@@ -1,0 +1,21 @@
+{
+  "hash": "fa91393a",
+  "configHash": "81272de6",
+  "lockfileHash": "4e11eb45",
+  "browserHash": "351e7dd1",
+  "optimized": {
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "e62ecd05",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "9ca432c3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
