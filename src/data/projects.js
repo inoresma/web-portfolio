@@ -1,10 +1,10 @@
 export const projects = [
   {
     id: 1,
-    name: 'Restaurant',
-    description: 'Sitio web completo para restaurante con menú interactivo y diseño atractivo que muestra los platos y servicios.',
-    image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop',
-    demoUrl: 'https://zingy-rabanadas-c5fcdd.netlify.app/',
+    name: 'Legal',
+    description: 'Sitio web profesional para bufete de abogados con información de servicios legales, equipo y diseño que transmite confianza y profesionalismo.',
+    image: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&h=600&fit=crop',
+    demoUrl: 'https://web-law-firm-example.netlify.app/',
     githubUrl: '#',
   },
   {
@@ -17,6 +17,22 @@ export const projects = [
   },
   {
     id: 3,
+    name: 'Fotógrafo',
+    description: 'Portfolio profesional para fotógrafo con galería de trabajos, información de servicios y diseño elegante que destaca la creatividad.',
+    image: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=600&fit=crop',
+    demoUrl: 'https://example-photographer-web.netlify.app/',
+    githubUrl: '#',
+  },
+  {
+    id: 4,
+    name: 'Turístico',
+    description: 'Sitio web para agencia de turismo con información de destinos, paquetes turísticos y diseño atractivo que invita a viajar.',
+    image: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop',
+    demoUrl: 'https://example-turistic-web.netlify.app/',
+    githubUrl: '#',
+  },
+  {
+    id: 5,
     name: 'Panadería',
     description: 'Sitio web para panadería con catálogo de productos, información de contacto y diseño acogedor que invita a visitar.',
     image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop',
@@ -24,28 +40,11 @@ export const projects = [
     githubUrl: '#',
   },
   {
-    id: 4,
-    name: 'Proyecto Ejemplo 4',
-    description: 'Plataforma web escalable con arquitectura robusta y optimizada.',
-    image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&h=600&fit=crop',
-    demoUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    id: 5,
-    name: 'Proyecto Ejemplo 5',
-    description: 'Aplicación móvil responsive con experiencia de usuario excepcional.',
-    image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop',
-    demoUrl: '#',
-    githubUrl: '#',
-  },
-  {
     id: 6,
-    name: 'Proyecto Ejemplo 6',
-    description: 'Sistema completo de gestión con integraciones y API personalizada.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
-    demoUrl: '#',
+    name: 'Restaurant',
+    description: 'Sitio web completo para restaurante con menú interactivo y diseño atractivo que muestra los platos y servicios.',
+    image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop',
+    demoUrl: 'https://zingy-rabanadas-c5fcdd.netlify.app/',
     githubUrl: '#',
   },
 ]
-
