@@ -128,13 +128,13 @@ const technologies = [
 const socialLinks = [
   {
     name: 'GitHub',
-    url: 'https://github.com',
+    url: 'https://github.com/inoresma',
     external: true,
     icon: 'github',
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com',
+    url: 'https://www.linkedin.com/in/inoresma/',
     external: true,
     icon: 'linkedin',
   },
